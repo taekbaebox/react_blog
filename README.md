@@ -1,3 +1,3 @@
-#ReactBlog
+#React
 
-React로 블로그를 만들어 보자!
+React를 배워보자!
